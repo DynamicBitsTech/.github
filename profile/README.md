@@ -1,4 +1,3 @@
-# ![Dynamic Bits Logo](https://dynamicbits.tech/assets/img/dbits/dynamic-logo.png)
 
 # Dynamic Bits
 
