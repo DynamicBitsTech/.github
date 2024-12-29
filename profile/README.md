@@ -1,5 +1,5 @@
 
-# Dynamic Bits
+# DynamicBits
 Dynamic Bits is a leading software development company specializing in creating custom solutions tailored for businesses. We take pride in delivering high-quality, high-performing software in a timely manner, making us the preferred technology partner for numerous well-known companies.
 
 
